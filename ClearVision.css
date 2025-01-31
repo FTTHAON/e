@@ -1,4 +1,14 @@
-/* Made by FTTHAON. */
+/**
+ * @name ClearVision
+ * @author ClearVision Team
+ * @version 6.9.0
+ * @description Highly customizable theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite dHaSxn3
+ */
+
+/* Credits to Zerthox for making the original theme. */
 
 /* IMPORT CSS */
 @import url(https://clearvision.github.io/ClearVision-v6/main.css);
@@ -32,7 +42,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%;
   --background-overlay: rgba(0, 0, 0, 0.6);
-  --background-image: url(https://i.imgur.com/SqPZQoz.png);
+  --background-image: url(https://wallpapercave.com/wp/wp5295092.jpg);
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
